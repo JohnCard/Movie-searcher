@@ -1,6 +1,6 @@
 import { useState } from "react"
 
-const apiKey = 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkYTA3ZGFhNjJlNzEzZGEyMWYxMjhkMGJjN2EzZDgzOCIsIm5iZiI6MTcyMTgzNzkwNC41OTUsInN1YiI6IjY2YTEyOTUwMTEyOTU2YTY4MTcyYjJkNCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.sJIs3FY4JSg8Hh0FrFbER5QDHKpKDhj6m5-X5uxlaaI'
+const apiKey = import.meta.env.VITE_MOVIE_SEARCH
 const urlBase = `https://api.themoviedb.org/3/search/movie?query=`
 const options = {
     method: 'GET',
