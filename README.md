@@ -79,7 +79,7 @@ npm run dev
 
 | Search Interface | Movie Results |
 |:-:|:-:|
-| ![Search](https://res.cloudinary.com/de1slf4r1/image/upload/v1774659415/Captura_de_pantalla_2026-03-27_a_la_s_6.56.14_p.m._piv3te.png) | ![Results](https://res.cloudinary.com/de1slf4r1/image/upload/v1774659444/Captura_de_pantalla_2026-03-27_a_la_s_6.55.54_p.m._he4hdt.png) |
+| ![Search](img/search_input.png) | ![Results](img/avengers.png) |
 
 ---
 
